@@ -8,3 +8,4 @@
 
 3)task-3=write a short CV about me.(Dictionary)
 
+4)Function(add,minus,multiplication,division,return key word)
