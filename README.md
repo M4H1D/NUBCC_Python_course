@@ -9,3 +9,5 @@
 3)task-3=write a short CV about me.(Dictionary)
 
 4)Function(add,minus,multiplication,division,return key word)
+
+5)phase-1 test solution.This pdf is test question.. 
